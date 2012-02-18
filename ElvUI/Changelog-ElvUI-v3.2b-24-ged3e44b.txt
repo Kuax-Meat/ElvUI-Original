@@ -1,4 +1,5 @@
 Elv:
+	- Skin and position the guild challenge alert frame to the achievements anchor.
 	- Remove the character frame from being skinned when misc skinning option is set
 	- Accidently commited a change to the rogue shadowdance bar, wasn't intended on being in last version.
 	- Add a castbar spark option to all castbars on the unitframes.
