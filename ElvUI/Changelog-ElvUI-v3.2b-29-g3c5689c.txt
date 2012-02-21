@@ -1,4 +1,5 @@
 Elv:
+	- Users should now be prompted when changing the UIScale to reloadui.
 	- Fix two lua errors caused by old uiScale code.
 	- Rather large changes here:
 	Any setting that would require a reloadui is now a global setting for all characters that use elvui. The result of this is all settings that require a reloadui have been reset.
