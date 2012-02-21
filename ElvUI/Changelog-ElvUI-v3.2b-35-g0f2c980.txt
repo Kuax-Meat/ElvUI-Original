@@ -1,4 +1,5 @@
 Elv:
+	- Fix error on first load in.
 	- Fix appearance issue with guild bank buttons after performing a drag.
 	- Read available points from defaults table in datatexts.
 	- Fix a few options always being disabled in the actionbars.
