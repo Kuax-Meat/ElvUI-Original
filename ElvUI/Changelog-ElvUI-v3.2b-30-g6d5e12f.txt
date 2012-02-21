@@ -1,4 +1,5 @@
 Elv:
+	- Temporarily disable installation process until i have time to rewrite it.
 	- Users should now be prompted when changing the UIScale to reloadui.
 	- Fix two lua errors caused by old uiScale code.
 	- Rather large changes here:
