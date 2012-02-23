@@ -1,4 +1,14 @@
 Elv:
+	- Final attempt chat message
+	- Attempt number 2 to fix addon message
+	- Fix out of date addon message
+	- Set profession bags to differant colors.
+	- Fix nameplate filters not allowing to add new nameplates or deleting old ones.
+	- Fix classtimer not disabling.
+	- Re-Add the installation process. This time theres only one role layout you can set, in addition add a step to setup the UI based upon if you have a low or high resolution.
+	- Fix default position of arena/boss frames to work with both a high and low resolution
+	- Remove specswap option from config as its no longer used
+	- Fix combat font not being set
 	- Fix error on first load in.
 	- Fix appearance issue with guild bank buttons after performing a drag.
 	- Read available points from defaults table in datatexts.
