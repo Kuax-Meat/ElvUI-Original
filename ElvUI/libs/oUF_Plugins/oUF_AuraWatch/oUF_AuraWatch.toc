@@ -5,7 +5,7 @@
 ## Notes: Adds aura timers to oUF
 ## OptionalDeps: oUF
 ## X-oUF: oUF
-## X-Curse-Packaged-Version: v3.2b-70-g79953b3
+## X-Curse-Packaged-Version: v3.2b-71-g33d6047
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
