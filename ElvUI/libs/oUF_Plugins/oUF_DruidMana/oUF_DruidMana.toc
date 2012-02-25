@@ -5,7 +5,7 @@
 ## Version: 1.0
 ## X-Category: UnitFrame
 ## Dependencies: oUF
-## X-Curse-Packaged-Version: v3.2b-74-g8cbc239
+## X-Curse-Packaged-Version: v3.2b-75-g9a5a963
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
