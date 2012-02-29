@@ -4,7 +4,7 @@
 ## Title: oUF Swing
 ## Notes: Swing timer plug-in for oUF
 ## RequiredDeps: oUF
-## X-Curse-Packaged-Version: v3.32
+## X-Curse-Packaged-Version: v3.32-2-g2f346b2
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
