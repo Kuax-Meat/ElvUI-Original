@@ -4,7 +4,7 @@
 ## Title: oUF TotemBar
 ## Notes: Totem bars support for oUF layouts.
 ## Dependencies: oUF
-## X-Curse-Packaged-Version: v3.32-2-g2f346b2
+## X-Curse-Packaged-Version: v3.32-5-g6de60da
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
