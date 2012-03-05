@@ -10,7 +10,7 @@
 ## X-Curse-Project-Name: LibDualSpec-1.0
 ## X-Curse-Project-ID: libdualspec-1-0
 ## X-Curse-Repository-ID: wow/libdualspec-1-0/mainline
-## X-Curse-Packaged-Version: v3.32-9-gd92173d
+## X-Curse-Packaged-Version: v3.32-10-g79f36f6
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
