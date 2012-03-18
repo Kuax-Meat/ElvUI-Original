@@ -6,7 +6,7 @@
 ## SavedVariables: ElvData
 ## OptionalDeps: BigWigs, DBM-Core, DXE, SharedMedia
 ## X-oUF: ElvUF
-## X-Curse-Packaged-Version: v3.33-18-g670235c
+## X-Curse-Packaged-Version: v3.33-19-g979e287
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline

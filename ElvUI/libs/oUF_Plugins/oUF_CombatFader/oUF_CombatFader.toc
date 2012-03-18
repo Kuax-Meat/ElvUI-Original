@@ -4,7 +4,7 @@
 ## Author: Elv
 ## Version: 1.0.0
 ## Dependencies: oUF
-## X-Curse-Packaged-Version: v3.33-18-g670235c
+## X-Curse-Packaged-Version: v3.33-19-g979e287
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
