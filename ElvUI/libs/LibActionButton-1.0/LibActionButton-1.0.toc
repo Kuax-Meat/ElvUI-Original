@@ -10,7 +10,7 @@
 ## X-Curse-Project-Name: LibActionButton-1.0
 ## X-Curse-Project-ID: libactionbutton-1-0
 ## X-Curse-Repository-ID: wow/libactionbutton-1-0/mainline
-## X-Curse-Packaged-Version: v3.33-22-g0c5626e
+## X-Curse-Packaged-Version: v3.33-23-gf1ab2c2
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
