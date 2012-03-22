@@ -5,7 +5,7 @@
 ## Version: 30300.4-Beta
 ## X-Category: oUF
 ## Dependencies: oUF
-## X-Curse-Packaged-Version: v3.33-57-gc49367c
+## X-Curse-Packaged-Version: v3.33-58-g54b827a
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
