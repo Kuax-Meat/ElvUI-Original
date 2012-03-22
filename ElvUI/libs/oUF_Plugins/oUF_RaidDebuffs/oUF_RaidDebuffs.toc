@@ -3,7 +3,7 @@
 ## Notes: Raid debuff mod for oUF
 ## Version: 1.2
 ## OptionalDeps: oUF
-## X-Curse-Packaged-Version: v3.33-52-g51a861f
+## X-Curse-Packaged-Version: v3.33-53-g7fcd9f6
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
