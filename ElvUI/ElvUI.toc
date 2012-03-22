@@ -1,12 +1,12 @@
 ﻿## Interface: 40300
 ## Author: Elv
-## Version: 3.33
+## Version: 3.4
 ## Title: |cff1784d1ElvUI|r
 ## Notes: User Interface replacement AddOn for World of Warcraft.
 ## SavedVariables: ElvData
 ## OptionalDeps: BigWigs, DBM-Core, DXE, SharedMedia
 ## X-oUF: ElvUF
-## X-Curse-Packaged-Version: v3.33-60-gb5eaee9
+## X-Curse-Packaged-Version: v3.33-61-ga8952c7
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
