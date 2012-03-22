@@ -9,7 +9,7 @@
 ## X-Curse-Project-Name: oUF_DebuffHighlight
 ## X-Curse-Project-ID: o-uf_debuff-highlight
 ## X-Curse-Repository-ID: wow/o-uf_debuff-highlight/mainline
-## X-Curse-Packaged-Version: v3.33-55-gbc8e28c
+## X-Curse-Packaged-Version: v3.33-56-gf352a9b
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
