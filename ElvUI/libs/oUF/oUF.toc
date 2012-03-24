@@ -6,7 +6,7 @@
 ## X-eMail: troeks@gmail.com
 ## X-oUF: oUF
 ## Notes: Unit frame framework. Does nothing by itself.
-## X-Curse-Packaged-Version: v3.4
+## X-Curse-Packaged-Version: v3.4-1-g874fcc4
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
