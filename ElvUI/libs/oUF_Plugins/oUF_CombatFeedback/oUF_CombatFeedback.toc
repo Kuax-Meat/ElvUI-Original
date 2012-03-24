@@ -9,7 +9,7 @@
 ## X-Curse-Project-Name: oUF_CombatFeedback
 ## X-Curse-Project-ID: o-uf_combat-feedback
 ## X-Curse-Repository-ID: wow/o-uf_combat-feedback/mainline
-## X-Curse-Packaged-Version: v3.4-1-g874fcc4
+## X-Curse-Packaged-Version: v3.4-2-g8c05a25
 ## X-Curse-Project-Name: ElvUI
 ## X-Curse-Project-ID: elvui
 ## X-Curse-Repository-ID: wow/elvui/mainline
